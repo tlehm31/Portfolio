@@ -8,7 +8,8 @@ body {
 .business,
 .intro,
 .coffeeSite,
-.convSite {
+.convSite,
+.photographySite{
   background-color: #c62828;
   color: #ffffff;
   padding: 24px;
@@ -22,7 +23,8 @@ body {
 .business:hover,
 .intro:hover,
 .coffeeSite:hover,
-.convSite:hover {
+.convSite:hover,
+photographySite:hover{
   transform: translateY(-4px);
   box-shadow: 0 12px 28px rgba(0, 0, 0, 0.6);
 }
